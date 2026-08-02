@@ -1,0 +1,6 @@
+"company_policy.txt": """
+        Systems Limited leave policy: Employees get 20 annual leaves per year.
+        Sick leaves are 10 per year and require a medical certificate if more
+        than 2 consecutive days. Casual leaves must be applied 3 days in advance.
+        Unused annual leaves can carry over, maximum 10 days into the next year.
+    """,

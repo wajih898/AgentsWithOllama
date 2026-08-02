@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Test and cache folders
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
