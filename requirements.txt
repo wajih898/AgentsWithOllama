@@ -2,3 +2,6 @@ ollama
 openai
 pydantic
 numpy
+python-dotenv
+tiktoken
+ 
