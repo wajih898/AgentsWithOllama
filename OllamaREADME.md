@@ -27,6 +27,12 @@ Install Ollama first:
 
 - macOS / Windows: https://ollama.com/
 
+python -m venv venv
+source venv/bin/activate #Mac Users
+venv\Scripts\activate # windows
+pip install -r requirements.txt
+
+
 After installing Ollama, pull a model:
 
 ```bash
