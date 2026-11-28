@@ -1,0 +1,8 @@
+
+    "product_faq.txt": """
+        Our product SmartPOS supports offline billing. When the internet is
+        restored, all invoices sync automatically to the cloud dashboard.
+        SmartPOS pricing: Basic plan is $29/month for 1 terminal, Pro plan
+        is $79/month for up to 5 terminals with inventory management.
+        Refunds are processed within 5-7 business days.
+    """

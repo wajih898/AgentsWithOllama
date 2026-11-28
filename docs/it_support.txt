@@ -1,0 +1,7 @@
+,
+    "it_support.txt": """
+        To reset your office VPN password, visit portal.company.com/vpn and
+        click Forgot Password. VPN sessions expire after 12 hours. For laptop
+        issues, raise a ticket at helpdesk.company.com; hardware replacement
+        takes 3 working days after approval by your line manager.
+    """,
